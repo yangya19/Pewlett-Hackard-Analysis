@@ -17,3 +17,5 @@ According to the sum of counts for retiring_titles table, there are in total 724
 ### Are there enough qualified, retirement-ready employees in the department to mentor the next generation of Pewlett Hackard employees?
 The qualified employees were selected in mentorship_eligibility table, and total counts for eligible employees is 1549. Let's assume one employee could mentor 3 next generation of Pewlett Hackard employees. The total number that can be managed to mentor is 4647. Compare to retiring number of employees (72458) this is not enough for training the new employees.
 
+![Eligibility Count.png](https://github.com/yangya19/Pewlett-Hackard-Analysis/blob/main/Challenge/eligibility%20count.png)
+![Mentorship Eligibility Titles.png](https://github.com/yangya19/Pewlett-Hackard-Analysis/blob/main/Challenge/mentorship%20eligibility%20titles.png)
